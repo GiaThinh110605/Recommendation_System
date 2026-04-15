@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Trang-1" id="OzAm2We2jhPk93CibErL">
-    <mxGraphModel dx="2168" dy="2088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2264" dy="2153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,10 +197,10 @@
           <mxGeometry height="50" width="120" x="660" y="140" as="geometry" />
         </mxCell>
         <mxCell id="ZhgBSqlT7SE2lx6T4UCF-59" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Quản lý kết quả test" vertex="1">
-          <mxGeometry height="60" width="120" x="660" y="240" as="geometry" />
+          <mxGeometry height="60" width="120" x="700" y="280" as="geometry" />
         </mxCell>
         <mxCell id="ZhgBSqlT7SE2lx6T4UCF-60" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Quản lý thảo luận" vertex="1">
-          <mxGeometry height="50" width="120" x="670" y="320" as="geometry" />
+          <mxGeometry height="50" width="120" x="690" y="370" as="geometry" />
         </mxCell>
         <mxCell id="ZhgBSqlT7SE2lx6T4UCF-61" edge="1" parent="1" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZtixopE5zfmmTzHnwOGv-1" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;&amp;lt;&amp;lt;G&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;eneralization&amp;gt;&amp;gt;&lt;/span&gt;&lt;/p&gt;">
           <mxGeometry relative="1" width="160" as="geometry">
@@ -259,6 +259,12 @@
             <mxPoint x="919" y="310" as="sourcePoint" />
             <mxPoint x="310" y="769" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-I1nQWaFv96qJHSGT6Ll-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tất cả các Use Case (ngoại trừ Đăng ký &amp;amp; Đăng nhập) đều có &lt;b data-path-to-node=&quot;6,1,1,0&quot; data-index-in-node=&quot;66&quot;&gt;Tiền điều kiện (Pre-condition)&lt;/b&gt; là người dùng đã đăng nhập thành công" vertex="1">
+          <mxGeometry height="60" width="250" x="280" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="-I1nQWaFv96qJHSGT6Ll-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tất cả các Use Case (ngoại trừ Đăng ký &amp;amp; Đăng nhập) đều có &lt;b data-path-to-node=&quot;6,1,1,0&quot; data-index-in-node=&quot;66&quot;&gt;Tiền điều kiện (Pre-condition)&lt;/b&gt; là người dùng đã đăng nhập thành công" vertex="1">
+          <mxGeometry height="50" width="250" x="550" y="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
